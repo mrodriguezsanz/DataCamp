@@ -12,11 +12,11 @@ Link: [https://www.datacamp.com](https://www.datacamp.com)
 - [Data Skills for Business](https://www.datacamp.com/completed/statement-of-accomplishment/track/3ad70953dbf6b1901263c37cba77e0639194d494)
 
 ## Projects
-- A Visual History of Nobel Prize Winners.ipynb
-- Predicting Credit Card Approvals.ipynb
-- The Android App Market on Google Play.ipynb
-- Dr. Semmelweis and the Discovery of Handwashing.ipynb
-- The GitHub History of the Scala Language.ipynb 
+- [A Visual History of Nobel Prize Winners.ipynb](https://github.com/mrodriguezsanz/DataCamp/blob/f52423b347b7d9d650461d06f48711e7af5c04b5/A%20Visual%20History%20of%20Nobel%20Prize%20Winners.ipynb)
+- [Predicting Credit Card Approvals.ipynb](https://github.com/mrodriguezsanz/DataCamp/blob/f52423b347b7d9d650461d06f48711e7af5c04b5/Predicting%20Credit%20Card%20Approvals.ipynb)
+- [The Android App Market on Google Play.ipynb](https://github.com/mrodriguezsanz/DataCamp/blob/f52423b347b7d9d650461d06f48711e7af5c04b5/The%20Android%20App%20Market%20on%20Google%20Play.ipynb)
+- [Dr. Semmelweis and the Discovery of Handwashing.ipynb](https://github.com/mrodriguezsanz/DataCamp/blob/f52423b347b7d9d650461d06f48711e7af5c04b5/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing.ipynb)
+- [The GitHub History of the Scala Language.ipynb](https://github.com/mrodriguezsanz/DataCamp/blob/f52423b347b7d9d650461d06f48711e7af5c04b5/The%20GitHub%20History%20of%20the%20Scala%20Language.ipynb)
 
 ## Courses
 ### Python
